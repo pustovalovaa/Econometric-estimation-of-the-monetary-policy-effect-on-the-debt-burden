@@ -1,0 +1,558 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Производство и распределение электроэнергии, газа и воды </TITLE>
+<META NAME="Template" CONTENT="C:\Microsoft Office\Office\html.dot">
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66236914, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/66236914" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080">
+
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="CENTER">1.3.3. Производство и распределение <BR>
+электроэнергии, газа и воды</P>
+</FONT><FONT SIZE=2><P ALIGN="JUSTIFY">Индекс производства<SUP>1)</B></SUP> по виду деятельности "Производство и распределение электроэнергии, газа и воды" в октябре 2013г. по сравнению с соответствующим периодом предыдущего года составил 101,9%, в январе-октябре 2013г. - 99,7%.</P></FONT>
+<TABLE BORDER CELLSPACING=1 BORDERCOLOR="#808080" CELLPADDING=4 WIDTH=568>
+<TR><TD VALIGN="BOTTOM">
+<P><I><FONT SIZE=1>____________________<BR>
+1) С учетом поправки на неформальную деятельность.</I></FONT></TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=1><P ALIGN="RIGHT">Таблица 39</P>
+<B><P ALIGN="CENTER">Динамика производства по виду деятельности <BR>
+"Производство и распределение электроэнергии, газа и воды"<SUP>1)</P></B></SUP></FONT>
+<TABLE BORDER CELLSPACING=1 BORDERCOLOR="#000000" CELLPADDING=4 WIDTH=568>
+<TR><TD WIDTH="41%" VALIGN="TOP" ROWSPAN=2>
+<P>&nbsp;</TD>
+<TD WIDTH="60%" VALIGN="TOP" COLSPAN=2>
+<I><FONT SIZE=1><P ALIGN="CENTER">В % к</I></FONT></TD>
+</TR>
+<TR><TD WIDTH="30%" VALIGN="TOP">
+<I><FONT SIZE=1><P ALIGN="CENTER">соответствующему<BR>
+периоду предыдущего года</I></FONT></TD>
+<TD WIDTH="30%" VALIGN="TOP">
+<I><FONT SIZE=1><P ALIGN="CENTER">предыдущему <BR>
+периоду</I></FONT></TD>
+</TR>
+<TR><TD VALIGN="BOTTOM" COLSPAN=3>
+<B><FONT SIZE=2><P ALIGN="CENTER">2012г.</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Январь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,8</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">104,8</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Февраль</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">106,7</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,3</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Март</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,3</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">93,2</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">I квартал</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">102,6</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">113,5</B></I></FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Апрель</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,4</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">80,3</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Май</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,2</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">84,9</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Июнь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">102,1</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">88,8</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">II квартал</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">100,8</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">66,3</B></I></FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">I полугодие</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">101,8</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<P>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Июль</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">100,8</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,1</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Август</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">100,2</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,5</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Сентябрь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,1</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">103,4</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">III квартал</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">100,0</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">89,8</B></I></FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">Январь-сентябрь</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">101,3</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<P>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Октябрь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,4</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">125,3</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">Январь-октябрь</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">101,1</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<P>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Ноябрь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">97,4</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">113,2</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Декабрь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">104,7</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">118,4</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">IV квартал</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">100,5</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">149,0</B></I></FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">Год</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">101,2</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<P>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="BOTTOM" COLSPAN=3>
+<B><FONT SIZE=2><P ALIGN="CENTER">2013г.</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Январь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,8</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,3</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Февраль</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">90,0</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">90,0</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Март</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,1</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">104,0</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">I квартал</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">98,0</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">108,8</B></I></FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Апрель</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">102,8</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">81,4</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Май</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">100,5</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">83,6</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Июнь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,2</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">89,3</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">II квартал</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">100,8</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">69,3</B></I></FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">I полугодие</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">99,3</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<P>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Июль</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">98,2</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,6</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Август</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">98,0</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,1</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Сентябрь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">102,9</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">107,9</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">III квартал</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">99,8</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">89,3</B></I></FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">Январь-сентябрь</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">99,5</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<P>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="JUSTIFY">Октябрь</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,9</FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">124,6</FONT></TD>
+</TR>
+<TR><TD WIDTH="41%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="JUSTIFY">Январь-октябрь</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<B><I><FONT SIZE=1><P ALIGN="RIGHT">99,7</B></I></FONT></TD>
+<TD WIDTH="30%" VALIGN="BOTTOM">
+<P>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="BOTTOM" COLSPAN=3>
+<I><FONT SIZE=1><P>1) С учетом поправки на неформальную деятельность.</I></FONT></TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=1><P ALIGN="JUSTIFY">&nbsp;</P>
+</FONT><P><IMG SRC="Image4692.gif" WIDTH=542 HEIGHT=330></P>
+<FONT SIZE=1><P ALIGN="RIGHT">Таблица 40</P>
+<B><P ALIGN="CENTER">Объем отгруженных товаров собственного производства, <BR>
+выполненных работ и услуг собственными силами<BR>
+по производству и распределению электроэнергии, газа и воды</P>
+</B><P ALIGN="RIGHT">в действующих ценах</P></FONT>
+<TABLE BORDER CELLSPACING=1 BORDERCOLOR="#000000" CELLPADDING=4 WIDTH=567>
+<TR><TD WIDTH="52%" VALIGN="TOP" ROWSPAN=2>
+<P>&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="TOP" ROWSPAN=2>
+<I><FONT SIZE=1><P ALIGN="CENTER">Октябрь <BR>
+2013г., млрд.рублей</I></FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP" COLSPAN=2>
+<I><FONT SIZE=1><P ALIGN="CENTER">В % к</I></FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP" ROWSPAN=2>
+<I><FONT SIZE=1><P ALIGN="CENTER">Январь-октябрь <BR>
+2013г.<BR>
+в % к<BR>
+январю-октябрю<BR>
+2012г.</I></FONT></TD>
+</TR>
+<TR><TD WIDTH="12%" VALIGN="TOP">
+<I><FONT SIZE=1><P ALIGN="CENTER">октябрю <BR>
+2012г.</I></FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP">
+<I><FONT SIZE=1><P ALIGN="CENTER">сентябрю<BR>
+2013г.</I></FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P>Производство и распределение <BR>
+электроэнергии, газа и воды</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">375,9</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">113,5</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">124,7</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">108,6</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>в том числе:<B> <BR>
+</B>производство, передача и распределение <BR>
+электроэнергии, газа, пара и горячей воды</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">356,8</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">113,8</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">126,2</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">108,8</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>из него:<B> <BR>
+</B>производство, передача и распределение электроэнергии</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">230,6</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">111,4</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">106,0</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">108,1</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>производство и распределение газообразного топлива</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">13,7</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">112,5</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">133,0</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">111,2</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>производство, передача и распределение пара <BR>
+и горячей воды (тепловой электроэнергии)</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">112,5</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">119,2</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">в 2,0р.</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">110,1</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>сбор, очистка и распределение воды</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">19,1</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">107,7</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,8</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">106,0</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=2><P ALIGN="JUSTIFY">По данным <B>обследования деловой активности </B>в ноябре 2013г., в котором приняли участие 579 организаций, осуществляющих производство и распределение электроэнергии, газа и воды (без малых предприятий), значение <B>индекса предпринимательской уверенности </B>составило (9%), в ноябре 2012г. - (8%), в октябре 2013г. - (9%).</P>
+</FONT><P><IMG SRC="Image4693.gif" WIDTH=553 HEIGHT=318></P>
+<FONT SIZE=1 COLOR="#ff0000"><P ALIGN="CENTER">&nbsp;</P>
+</FONT><FONT SIZE=1><P ALIGN="RIGHT">Таблица 41</P>
+<B><P ALIGN="CENTER">Производство электро- и теплоэнергии</P></B></FONT>
+<TABLE BORDER CELLSPACING=1 BORDERCOLOR="#000000" CELLPADDING=4 WIDTH=567>
+<TR><TD WIDTH="52%" VALIGN="TOP" ROWSPAN=2>
+<P>&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="TOP" ROWSPAN=2>
+<I><FONT SIZE=1><P ALIGN="CENTER">Октябрь <BR>
+2013г.</I></FONT></TD>
+<TD WIDTH="24%" VALIGN="TOP" COLSPAN=2>
+<I><FONT SIZE=1><P ALIGN="CENTER">В % к</I></FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP" ROWSPAN=2>
+<I><FONT SIZE=1><P ALIGN="CENTER">Январь-октябрь <BR>
+2013г.<BR>
+в % к<BR>
+январю-октябрю<BR>
+2012г.</I></FONT></TD>
+</TR>
+<TR><TD WIDTH="12%" VALIGN="TOP">
+<I><FONT SIZE=1><P ALIGN="CENTER">октябрю <BR>
+2012г.</I></FONT></TD>
+<TD WIDTH="12%" VALIGN="TOP">
+<I><FONT SIZE=1><P ALIGN="CENTER">сентябрю<BR>
+2013г.</I></FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P>Производство, передача и распределение электроэнергии</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<P>&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">100,4</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">111,4</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">99,1</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>электроэнергия, млрд.кВт·ч</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">89,8</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">100,2</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">111,8</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,3</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>в том числе произведенная электростанциями:<I> <BR>
+</I>атомными</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">15,1</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">102,9</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">109,6</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">95,6</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>тепловыми</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">60,5</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,9</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">117,1</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">97,5</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>гидроэлектростанциями</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">14,1</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">98,6</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">95,4</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">111,1</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P>Производство, передача и распределение пара <BR>
+и горячей воды (тепловой энергии)</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<P>&nbsp;</TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">107,0</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">199,2</B></FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<B><FONT SIZE=1><P ALIGN="RIGHT">101,7</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>тепловая энергия, млн.Гкал</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">111</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">106,9</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">192,7</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">101,5</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>из нее отпущенная:<I> <BR>
+</I>тепловыми электростанциями</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">52,5</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">107,4</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">190,3</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">100,6</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>котельными</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">51,2</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">106,9</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">212,2</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">102,5</FONT></TD>
+</TR>
+<TR><TD WIDTH="52%" VALIGN="BOTTOM">
+<FONT SIZE=1><P>промышленными утилизационными установками</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">6,3</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">93,4</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">117,2</FONT></TD>
+<TD WIDTH="12%" VALIGN="BOTTOM">
+<FONT SIZE=1><P ALIGN="RIGHT">99,0</FONT></TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=2><P ALIGN="JUSTIFY">Доля электроэнергии, произведенной гидроэлектростанциями, в общей выработке электроэнергии увеличилась с 15,7% в январе-октябре 2012г. до 17,5% в январе-октябре 2013г., тепловыми и атомными электростанциями - уменьшилась соответственно с 67,4% до 66,2% и с 16,9% до 16,2%.</P></FONT><p align=right style="border-top: 1 solid black"><small><i>Социально-экономическое положение России - 2013г.<br>Copyright © Федеральная служба государственной статистики</i></small></p></BODY>
+</HTML>
